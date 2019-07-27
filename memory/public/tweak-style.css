@@ -1,0 +1,37 @@
+body{
+    font-family: 'Courgette', cursive;
+    font-size: 20px;
+}
+.white-txt{
+    color: white;
+}
+.purple-bkg{
+    background-color: blueviolet;
+}
+.purple-txt{
+    color: blueviolet;
+}
+.whole-page{
+    min-width: 100%;
+}
+.footer-size{
+    height: 72px;
+}
+#container{
+    margin: auto;
+    padding: 80px;
+}
+#pic-container{
+    margin: 0 auto;
+    text-align: center;
+}
+.card-size{
+    height: 200px;
+    width: 20%;
+    margin: 1%;
+    box-shadow: 10px 5px 5px #4B0082;
+}
+.pic-size{
+    max-height: 150px;
+    max-width: 150px;
+}
