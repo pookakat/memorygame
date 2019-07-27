@@ -1,6 +1,14 @@
 body{
     font-family: 'Courgette', cursive;
     font-size: 20px;
+    text-shadow: 2px 1px 1px black;
+}
+.modal{
+    display: block;
+}
+.modal-content{
+    border: 1px solid black;
+    box-shadow: 10px 5px 5px #4B0082;
 }
 .white-txt{
     color: white;
