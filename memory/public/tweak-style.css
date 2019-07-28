@@ -24,10 +24,11 @@ body{
 }
 .footer-size{
     height: 72px;
+    width: 100%;
 }
 #container{
     margin: auto;
-    padding: 80px;
+    padding-top: 80px;
 }
 #pic-container{
     margin: 0 auto;
